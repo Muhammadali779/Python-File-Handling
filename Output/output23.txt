@@ -1,0 +1,4 @@
+Har bir baho nechi marta qatnashgan:
+Baho 4: 2 marta
+Baho 5: 2 marta
+Baho 3: 1 marta

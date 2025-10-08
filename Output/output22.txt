@@ -1,0 +1,2 @@
+Bahosi 5 bo`lganlar soni: 2 ta 
+Va ular : ['Malika', 'Nigora']

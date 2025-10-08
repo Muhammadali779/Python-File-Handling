@@ -5,5 +5,5 @@ with open("Input/students.txt", "r") as f:
         names
     ))
 
-with open("Output/output17.txt", "w") as f:
+with open("Output/a_names.txt", "w") as f:
     f.writelines(first_A)

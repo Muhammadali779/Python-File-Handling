@@ -1,0 +1,1 @@
+['5 ta harffan iborat', '7 ta harffan iborat', '6 ta harffan iborat', '5 ta harffan iborat', '6 ta harffan iborat', '7 ta harffan iborat', '5 ta harffan iborat', '6 ta harffan iborat']
